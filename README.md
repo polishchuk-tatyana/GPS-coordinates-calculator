@@ -1,8 +1,8 @@
-Task - GPS coordinates calculator
+Task - GPS coordinates calculatorCancel changes
 =====================
 ***Web-application that allows you to calculate distance between two points in km.***
 
-How start this app in your development enviroment
+How start this app in your development environment
 -----------------------------------
 After downloading project in your development enviroment you should:
 1. In local terminal in *client* and *server* folders run `npm install`(you can open two terminals at the same time)
