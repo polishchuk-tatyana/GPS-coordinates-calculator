@@ -4,7 +4,7 @@ Task - GPS coordinates calculator
 
 How start this app in your development environment
 -----------------------------------
-After downloading project in your development enviroment you should:
+After downloading project in your development environment you should:
 1. In local terminal in *client* and *server* folders run `npm install`(you can open two terminals at the same time)
 2. Open *server* directory and run `npm start`
 3. Open *client* directory and run `npm start`
