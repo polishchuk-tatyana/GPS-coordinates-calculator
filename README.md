@@ -1,4 +1,4 @@
-Task - GPS coordinates calculatorCancel changes
+Task - GPS coordinates calculator
 =====================
 ***Web-application that allows you to calculate distance between two points in km.***
 
