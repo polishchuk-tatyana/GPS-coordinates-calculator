@@ -16,7 +16,7 @@ What can the user do on the application
 * User can set points in form by click on the google maps.
 * User can click button Reset to clear data and input new data.
 
-What tools was used to create the application
+What tools were used to create the application
 -----------------------------------
 
 The application back-end is written in the `JavaScript` language on the `Node.js` and `React` for creating web-application. Page layout was used `JavaScript (React), CSS, HTML` using `Materialize` frameworks.
